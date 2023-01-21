@@ -9,9 +9,10 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@mdx-js/loader": "^2.2.1",
+    "@mdx-js/react": "^2.2.1",
     "@next/font": "13.1.2",
-    "contentlayer": "^0.3.0",
-    "date-fns": "^2.29.3",
+    "@next/mdx": "^13.1.4",
     "eslint": "8.31.0",
     "eslint-config-next": "13.1.2",
     "next": "13.1.2",
